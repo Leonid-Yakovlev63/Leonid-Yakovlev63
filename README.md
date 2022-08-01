@@ -1,1 +1,1 @@
-![github-user-contribution]( github-snake-dark.svg#gh-dark-mode-onlyhttps://user-images.githubusercontent.com/95966082/182144957-de7b9dde-b9a1-40c9-bf96-6113eef3d4b0.svg)
+![github-user-contribution](https://user-images.githubusercontent.com/95966082/182145226-9cb308cb-0b5a-47ab-837f-f4ddb25668da.svg gh-dark-mode-only)
