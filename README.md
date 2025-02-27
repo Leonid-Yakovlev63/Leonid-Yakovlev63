@@ -7,7 +7,6 @@
     <a href="https://spring.io" target="_blank" rel="noopener noreferrer"> <img alt="SpringBoot" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" /></a>
     <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer"> <img alt="PostgreSQL" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></a>  
     <a href="https://golang.org/" target="_blank" rel="noopener noreferrer"> <img alt="Golang" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" /></a>
-    <h3 style="background: linear-gradient(90deg, #6A11CB, #2575FC); -webkit-background-clip: text; -webkit-text-fill-color: transparent; display: inline-block;">DevOps</h3>
     <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer"> <img alt="Docker" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></a>
     <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer"> <img alt="Linux" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /></a>
     <a href="https://archlinux.org/" target="_blank" rel="noopener noreferrer"> <img alt="Arch" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" /></a>
