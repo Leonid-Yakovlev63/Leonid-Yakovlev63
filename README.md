@@ -8,7 +8,7 @@
     <a href="https://spring.io" target="_blank" rel="noopener noreferrer"> <img alt="SpringBoot" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" /></a>
     <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer"> <img alt="PostgreSQL" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></a>  
     <a href="https://golang.org/" target="_blank" rel="noopener noreferrer"> <img alt="Golang" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" /></a>
-    <a href="https://nestjs.com/" target="_blank" rel="noopener noreferrer"> <img alt="NestJS" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" /></a>
+    <a href="https://nestjs.com/" target="_blank" rel="noopener noreferrer"> <img alt="NestJS" height="42px" src="https://nestjs.com/img/logo-small.svg" /></a>
 </div>
 
 ## DevOps & Tools
