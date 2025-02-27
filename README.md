@@ -1,5 +1,5 @@
 ![Leonid-Yakovlev63's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leonid-Yakovlev63&show_icons=true&theme=radical)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonid-Yakovlev63)](https://github.com/Leonid-Yakovlev63/github-readme-stats)
 <div>
     <p></p> 
     <h3 style="background: linear-gradient(90deg, #FF7E5F, #FEB47B); -webkit-background-clip: text; -webkit-text-fill-color: transparent; display: inline-block;">Backend</h3>
