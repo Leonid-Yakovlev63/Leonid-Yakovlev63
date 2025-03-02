@@ -29,4 +29,4 @@
 
 ## Contact me
 [<img alt="Telegram" height="32px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />](https://t.me/leonid_developer_63) [@leonid_developer_63](https://t.me/leonid_developer_63)  
-[<img alt="Gmail" height="32px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />](mailto:j772115@gmail.com) [j772115@gmail.com](mailto:j772115@gmail.com)
+[<img alt="Gmail" height="24px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />](mailto:j772115@gmail.com) [j772115@gmail.com](mailto:j772115@gmail.com)
