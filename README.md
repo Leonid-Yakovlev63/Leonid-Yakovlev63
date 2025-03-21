@@ -15,6 +15,7 @@
 <div>
     <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer"> <img alt="Docker" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></a>
     <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer"> <img alt="Linux" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /></a>
+    <a href="https://www.debian.org" target="_blank" rel="noopener noreferrer"> <img alt="Debian" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" /></a>
     <a href="https://archlinux.org/" target="_blank" rel="noopener noreferrer"> <img alt="Arch" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" /></a>
 </div>
 
