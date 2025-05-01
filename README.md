@@ -25,7 +25,6 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer"> <img alt="CSS" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"> <img alt="JavaScript" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer"> <img alt="TypeScript" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></a>
-    <a href="https://svelte.dev/" target="_blank" rel="noopener noreferrer"> <img alt="Svelte" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" /></a>
 </div>
 
 ## Contact me
