@@ -11,7 +11,7 @@
     <a href="https://nestjs.com/" target="_blank" rel="noopener noreferrer"> <img alt="NestJS" height="42px" src="https://nestjs.com/img/logo-small.svg" /></a>
 </div>
 
-## DevOps & Tools
+## DevOps & OS
 <div>
     <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer"> <img alt="Docker" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></a>
     <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer"> <img alt="Linux" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /></a>
