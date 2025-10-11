@@ -4,27 +4,49 @@
 
 ## Backend
 <div>
-    <a href="https://www.java.com" target="_blank" rel="noopener noreferrer"> <img alt="Java" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></a>
-    <a href="https://spring.io" target="_blank" rel="noopener noreferrer"> <img alt="SpringBoot" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" /></a>
-    <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer"> <img alt="PostgreSQL" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></a>  
-    <a href="https://golang.org/" target="_blank" rel="noopener noreferrer"> <img alt="Golang" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" /></a>
+    <h3>Java</h3>
+<div> <a href="https://www.java.com" target="_blank" rel="noopener noreferrer"> <img alt="Java" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="42px" />
+</div>
+    <h3>Python</h3>
+<div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="42px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="42px" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="42px" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="42px" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" height="42px" />
+          </div>
+    <h3>JavaScript</h3>
+<div>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"> <img alt="JavaScript" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer"> <img alt="TypeScript" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="42px" />     
     <a href="https://nestjs.com/" target="_blank" rel="noopener noreferrer"> <img alt="NestJS" height="42px" src="https://nestjs.com/img/logo-small.svg" /></a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" height="42px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" height="42px" />
+</div>
 </div>
 
-## DevOps & OS
+## DevOps
 <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" height="42px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" height="42px" />
     <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer"> <img alt="Docker" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></a>
-    <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer"> <img alt="Linux" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /></a>
-    <a href="https://www.debian.org" target="_blank" rel="noopener noreferrer"> <img alt="Debian" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" /></a>
-    <a href="https://archlinux.org/" target="_blank" rel="noopener noreferrer"> <img alt="Arch" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" /></a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" height="42px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/helm/helm-original.svg" height="42px" />
 </div>
+
+## GNU/Linux
+<a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer"> <img alt="Linux" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /></a>
+<a href="https://www.debian.org" target="_blank" rel="noopener noreferrer"> <img alt="Debian" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" /></a>
+<a href="https://archlinux.org/" target="_blank" rel="noopener noreferrer"> <img alt="Arch" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" /></a>
 
 ## Frontend
 <div>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer"> <img alt="HTML" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer"> <img alt="CSS" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="42px" />
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"> <img alt="JavaScript" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer"> <img alt="TypeScript" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" height="42px" />
 </div>
 
 ## Contact me
