@@ -7,7 +7,9 @@
     <h3>Java</h3>
     <div>
         <a href="https://www.java.com" target="_blank" rel="noopener noreferrer"><img alt="Java" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></a>
-        <a href="https://spring.io/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="42px" /></a>
+        <a href="https://spring.io/" target="_blank" rel="noopener noreferrer"><img alt="Spring" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" /></a>
+        <a href="https://maven.apache.org/" target="_blank" rel="noopener noreferrer"><img alt="Maven" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" /></a>
+        <a href="https://gradle.org/" target="_blank" rel="noopener noreferrer"><img alt="Gradle" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" /></a>
     </div>
     <h3>Python</h3>
     <div> 
