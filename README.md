@@ -5,9 +5,10 @@
 ## Backend
 <div>
     <h3>Java</h3>
-<div> <a href="https://www.java.com" target="_blank" rel="noopener noreferrer"> <img alt="Java" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></a>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="42px" />
-</div>
+    <div>
+        <a href="https://www.java.com" target="_blank" rel="noopener noreferrer"><img alt="Java" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></a>
+        <a href="https://spring.io/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="42px" /></a>
+    </div>
     <h3>Python</h3>
     <div> 
         <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="42px" /></a>
