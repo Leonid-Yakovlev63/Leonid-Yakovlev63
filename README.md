@@ -27,7 +27,7 @@
 
 ## DevOps
 <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" height="42px" />
+    <a href="https://docs.ansible.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" height="42px" /></a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" height="42px" />
     <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer"> <img alt="Docker" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" height="42px" />
@@ -38,7 +38,7 @@
 <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer"> <img alt="Linux" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /></a>
 <a href="https://www.debian.org" target="_blank" rel="noopener noreferrer"> <img alt="Debian" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" /></a>
 <a href="https://archlinux.org/" target="_blank" rel="noopener noreferrer"> <img alt="Arch" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" /></a>
-<img alt="CachyOS" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/CachyOS_Logo.svg" height="42px" />
+<a href="https://cachyos.org/" target="_blank" rel="noopener noreferrer"> <img alt="CachyOS" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/CachyOS_Logo.svg" height="42px" /></a>
 
 ## Frontend
 <div>
