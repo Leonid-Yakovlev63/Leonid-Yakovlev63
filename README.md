@@ -1,6 +1,6 @@
 # ⚙️DevOps Engineer
 
-![Leonid-Yakovlev63's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leonid-Yakovlev63&show_icons=true&theme=radical)
+Migrated to [GitVerse](https://gitverse.ru/Leonid-Yakovlev63)
 # My Stack
 ## Backend
 <div>
