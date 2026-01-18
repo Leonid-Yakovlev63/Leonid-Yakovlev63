@@ -45,6 +45,7 @@
 <a href="https://www.debian.org" target="_blank" rel="noopener noreferrer"> <img alt="Debian" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" /></a>
 <a href="https://archlinux.org/" target="_blank" rel="noopener noreferrer"> <img alt="Arch" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" /></a>
 <a href="https://cachyos.org/" target="_blank" rel="noopener noreferrer"> <img alt="CachyOS" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/CachyOS_Logo.svg" height="42px" /></a>
+<a href="https://nixos.org/" target="_blank" rel="noopener noreferrer"> <img alt="NixOS" src="https://discourse.nixos.org/uploads/default/original/3X/9/7/97bff44bc19279df023ecea89196654e542bf419.png" height="42px" /></a>
 
 ## Frontend
 <div>
