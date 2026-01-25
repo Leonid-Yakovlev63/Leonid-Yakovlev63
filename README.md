@@ -4,6 +4,8 @@
 # My Stack
 ## Backend
 <div>
+    <h3>Go</h3>
+        <a href="https://go.dev/ target="_blank" rel="noopener noreferrer"><img alt="Go" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" /></a>
     <h3>Java</h3>
     <div>
         <a href="https://www.java.com" target="_blank" rel="noopener noreferrer"><img alt="Java" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></a>
